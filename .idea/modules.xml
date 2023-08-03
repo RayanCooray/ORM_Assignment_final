@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ORM Assignment/HibernateAssignmentManytoMany/HibernateAssignmentManytoMany.iml" filepath="$PROJECT_DIR$/../ORM Assignment/HibernateAssignmentManytoMany/HibernateAssignmentManytoMany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ORM Assignment/HibernateAssignmentOnetoMany/HibernateAssignmentOnetoMany.iml" filepath="$PROJECT_DIR$/../ORM Assignment/HibernateAssignmentOnetoMany/HibernateAssignmentOnetoMany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ORM Assignment/HibrtnateAssignmentOnetoOne/OnetoOne.iml" filepath="$PROJECT_DIR$/../ORM Assignment/HibrtnateAssignmentOnetoOne/OnetoOne.iml" />
+    </modules>
+  </component>
+</project>
